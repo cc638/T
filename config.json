@@ -2,7 +2,12 @@
 "api_site":{
 "1":{"api":"https://bf.xoxowin86cisyap.com/api.php/provide/vod","name":"暴风"},
 "2":{"api":"http://caiji.dyttzyapi.com/api.php/provide/vod","name":"电影"},
-"3":{"api":"https://cj.lziapi.com/api.php/provide/vod","name":"量子"}
-},
-"cache_time":60
-}
+"3":{"api":"https://cj.lziapi.com/api.php/provide/vod","name":"量子"},
+"4":{"api":"https://www.hongniuzy2.com/api.php/provide/vod","name":"红牛"},
+"5":{"api":"https://cj.rycjapi.com/api.php/provide/vod","name":"如意"},
+"6":{"api":"https://api.yzzy-api.com/inc/api_mac10_all.php","name":"优质"},
+"7":{"api":"https://hhzyapi.com/api.php/provide/vod","name":"豪华"},
+"8":{"api":"https://www.huyaapi.com/api.php/provide/vod","name":"虎牙"},
+"9":{"api":"https://tyyszyapi.com/api.php/provide/vod","name":"天涯"},
+"0":{"api":"http://caiji.cyou/api.php/provide/vod","name":"789"}
+}}
