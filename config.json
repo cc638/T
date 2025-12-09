@@ -9,5 +9,6 @@
 "7":{"api":"https://hhzyapi.com/api.php/provide/vod","name":"豪华"},
 "8":{"api":"https://www.huyaapi.com/api.php/provide/vod","name":"虎牙"},
 "9":{"api":"https://tyyszyapi.com/api.php/provide/vod","name":"天涯"},
-"0":{"api":"http://caiji.cyou/api.php/provide/vod","name":"789"}
+"0":{"api":"http://caiji.cyou/api.php/provide/vod","name":"789"},
+"a":{"api":"https://api.wwzy.tv/api.php/provide/vod","name":"旺旺"}
 }}
