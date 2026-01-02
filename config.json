@@ -10,5 +10,6 @@
 "8":{"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8","name":"索尼"},
 "9":{"api":"http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8","name":"非凡"},
 "0":{"api":"https://api.maoyanapi.top/api.php/provide/vod","name":"猫眼"},
-"a":{"api":"https://api.wwzy.tv/api.php/provide/vod","name":"旺旺"}
+"a":{"api":"https://collect.wolongzy.cc/api.php/provide/vod","name":"卧龙"},
+"z":{"api":"https://api.wwzy.tv/api.php/provide/vod","name":"旺旺"}
 }}
