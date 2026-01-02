@@ -3,11 +3,11 @@
 "1":{"api":"https://bf.xoxowin86cisyap.com/api.php/provide/vod","name":"暴风"},
 "2":{"api":"http://caiji.dyttzyapi.com/api.php/provide/vod","name":"电影"},
 "3":{"api":"https://cj.lziapi.com/api.php/provide/vod","name":"量子"},
-"4":{"api":"https://www.hongniuzy2.com/api.php/provide/vod","name":"红牛"},
-"5":{"api":"https://cj.rycjapi.com/api.php/provide/vod","name":"如意"},
+"4":{"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8","name":"ikun"},
+"5":{"api":"https://360zyzz.com/api.php/provide/vod","name":"360"},
 "6":{"api":"https://api.yzzy-api.com/inc/api_mac10_all.php","name":"优质"},
 "7":{"api":"https://hhzyapi.com/api.php/provide/vod","name":"豪华"},
-"8":{"api":"https://www.huyaapi.com/api.php/provide/vod","name":"虎牙"},
-"9":{"api":"https://tyyszyapi.com/api.php/provide/vod","name":"天涯"},
+"8":{"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8","name":"索尼"},
+"9":{"api":"http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8","name":"非凡"},
 "a":{"api":"https://api.wwzy.tv/api.php/provide/vod","name":"旺旺"}
 }}
