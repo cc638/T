@@ -1,7 +1,5 @@
 {"api_site":{
-"1":{"api":"https://bfzyapi.com/api.php/Seacms/vod/","name":"暴风"},
-"3":{"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8","name":"豪华"},
-"4":{"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8","name":"量子"},
-"5":{"api":"http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8","name":"非凡"},
+"1":{"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8","name":"量子"},
+"2":{"api":"http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8","name":"非凡"},
 "a":{"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8","name":"电影"}
 }}
