@@ -1,4 +1,5 @@
 {"api_site":{
+"0":{"api":"https://cc.serv00.net/api.php/provide/vod","name":"自留"},
 "1":{"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8","name":"量子"},
 "2":{"api":"http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8","name":"非凡"},
 "a":{"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8","name":"电影"}
