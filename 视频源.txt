@@ -1,0 +1,7 @@
+[
+{ "name": "量子", "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8" },
+{ "name": "暴风", "baseUrl": "https://bfzyapi.com/api.php/provide/vod" }
+
+
+
+]
