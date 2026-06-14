@@ -1,10 +1,16 @@
 [
   {
+    "id": "lz",
     "name": "量子",
-    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+    "group": "normal",
+    "priority": 6
   },
   {
+    "id": "bf",
     "name": "暴风",
-    "baseUrl": "https://bfzyapi.com/api.php/provide/vod"
+    "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 7
   }
 ]
