@@ -12,5 +12,12 @@
     "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
     "group": "normal",
     "priority": 7
+  },
+  {
+    "id": "hn",
+    "name": "红牛",
+    "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
+    "group": "normal",
+    "priority": 8
   }
 ]
